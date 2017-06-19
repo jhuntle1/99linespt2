@@ -11,6 +11,7 @@ h1 {
     
 }
 
-h3 {
+.div1{
         text-transform: uppercase;
+        color: red;
 }
